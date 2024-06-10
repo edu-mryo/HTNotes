@@ -71,6 +71,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1e7f5ac6b465c84f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -111,7 +119,7 @@
               "type": "backlink",
               "state": {
                 "file": "⚡ Start Machine ⚡.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -166,12 +174,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "58b14016d8cd8da5",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f9c3d4ffcaa05297",
   "lastOpenFiles": [
     "Index.md",
     "⚡ Start Machine ⚡.md",
+    "Machines/Sau/Sau.md",
+    "Machines/Sau/03-post-exploitation.md",
+    "Machines/Sau/02-exploitation.md",
+    "Machines/Sau/01-recon.md",
+    "Machines/Sau/00-index.md",
+    "Machines/Sau/assets",
+    "Machines/Sau",
+    "Machines",
+    "assets/update_machine_example.png",
+    "assets/machine_info_example.png",
+    "assets/index_machine_info_example.png",
+    "assets/create_machine_example.png",
     "Machines/Lame/Lame.md",
     "TODO.md",
     "fileClass/Machine.md",
